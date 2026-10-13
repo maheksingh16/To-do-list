@@ -1,4 +1,4 @@
-# 📝 To-Do List
+# To-Do List
 
 A simple **To-Do List web application** built using **Java and Spring Boot**.
 This project is created as a beginner-friendly project to learn Spring Boot, REST APIs, and backend development.
